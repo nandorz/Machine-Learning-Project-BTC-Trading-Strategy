@@ -65,3 +65,4 @@ watchdog==4.0.1
 Werkzeug==3.0.3
 wrapt==1.16.0
 plotly==5.22.0
+pickleshare==0.7.5
